@@ -1,12 +1,12 @@
 3333
-this is  first change£¡
+this is  first changeÂ£Â¡
 
 Git is a distributed version control system.
 Git is free software.
 
-²âÊÔgitÈÕÖ¾1
+Â²Ã¢ÃŠÃ”gitÃˆÃ•Ã–Â¾1
 
-²âÊÔÍÆËÍpush
+Â²Ã¢ÃŠÃ”ÃÃ†Ã‹Ãpush
 
 test  github  link
 
@@ -18,3 +18,4 @@ create  a  new  branch is  feature1 and 33333
 
 
 
+test pull
